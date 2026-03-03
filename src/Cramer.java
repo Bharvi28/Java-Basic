@@ -1,3 +1,8 @@
+/**Write a Java program to solve a system of two linear equations with two variables (e.g., ax + by =
+e and cx + dy = f). Prompt the user to enter the coefficients a, b, c, d, e, f. Calculate and display the
+values of x and y using Cramer's rule. Include error handling for cases where the denominator is
+zero Cramer's rule : D=ad−bc, Dx=ed−bf, Dy=af−ce, x=Dx/D, y=Dy/D
+**/
 import java.util.*;
 public class Cramer{
 
