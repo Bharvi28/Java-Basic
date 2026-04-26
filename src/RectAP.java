@@ -35,7 +35,7 @@ Scanner sc = new Scanner(System.in);
         System.out.println("Enter h and w :");
         double w = sc.nextDouble();
         double h = sc.nextDouble();
-        Rectangle r2 = new Rectangle(w,h);
+        RectangleComp r2 = new RectangleComp(w,h);
         System.out.println("Area of r2: " + r2.getArea());
         System.out.println("Perimeter of r2: " + r2.getPerimeter());
     }
