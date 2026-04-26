@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b787b4ae-ded5-4013-b047-263afa25dac0" name="Changes" comment="Initial commit -RectangleComp&#10; program">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Volume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RectAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectAP.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bharvi28&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bharvi28/Java-Basic.git&quot;,
+    &quot;accountId&quot;: &quot;dab074ff-46f7-4935-ad81-a2394897174e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3ARCnI3IWG0ONFkgrnwOTNrCq9R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankAccount.executor": "Run",
+    "Application.Bmi.executor": "Run",
+    "Application.College.executor": "Run",
+    "Application.Cramer.executor": "Run",
+    "Application.Distance.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Point.executor": "Run",
+    "Application.RectAP.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.RectangleComp.executor": "Run",
+    "Application.TriangleArea.executor": "Run",
+    "Application.Volume.executor": "Run",
+    "Application.VowelConsonant.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/jeetcctv/Java-Basic/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b787b4ae-ded5-4013-b047-263afa25dac0" name="Changes" comment="" />
+      <created>1772546160469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772546160469</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit - Distance program">
+      <option name="closed" value="true" />
+      <created>1772546605586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772546605586</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit - Cramer program">
+      <option name="closed" value="true" />
+      <created>1772547089644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772547089644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit - VowelConsonant program">
+      <option name="closed" value="true" />
+      <created>1772551134167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772551134167</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit - Bmi program">
+      <option name="closed" value="true" />
+      <created>1772552480387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772552480387</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit -TriangleArea program">
+      <option name="closed" value="true" />
+      <created>1772554593639</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772554593639</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit -RectAP program">
+      <option name="closed" value="true" />
+      <created>1772556142613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772556142613</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit -Employee program">
+      <option name="closed" value="true" />
+      <created>1777193403032</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777193403032</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit -Point program">
+      <option name="closed" value="true" />
+      <created>1777194342203</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777194342203</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit -RectangleComp&#10; program">
+      <option name="closed" value="true" />
+      <created>1777194642852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1777194642852</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit - Distance program" />
+    <MESSAGE value="Initial commit - Cramer program" />
+    <MESSAGE value="Initial commit - VowelConsonant program" />
+    <MESSAGE value="Initial commit - Bmi program" />
+    <MESSAGE value="Initial commit -TriangleArea program" />
+    <MESSAGE value="Initial commit -RectAP program" />
+    <MESSAGE value="Initial commit -Employee program" />
+    <MESSAGE value="Initial commit -Point program" />
+    <MESSAGE value="Initial commit -RectangleComp&#10; program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit -RectangleComp&#10; program" />
+  </component>
+</project>
